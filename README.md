@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 
 ![chgibb's github stats](https://github-readme-stats.vercel.app/api?username=chgibb&show_icons=true&theme=algolia&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chgibb&hide=java&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chgibb&hide=java&layout=compact&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
+
+<a href="https://github.com/chgibb/easy-nlu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chgibb&repo=easy-nlu&show_owner=true&theme=algolia" />
+</a>
+<a href="https://github.com/chgibb/mono-surveyor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chgibb&repo=mono-surveyor&show_owner=true&theme=algolia" />
+</a>
